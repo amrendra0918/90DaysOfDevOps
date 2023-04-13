@@ -1,0 +1,52 @@
+Task: What is the linux command to:
+
+To view what's written in a file.
+cat filename
+
+To change the access permissions of files.
+chmod
+
+To check which commands you have run till now.
+history
+
+To remove a directory/ Folder.
+rmdir -r
+
+To create a fruits.txt file and to view the content.
+touch fruits.txt
+cat fruits.txt
+
+Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+cat >> devops.txt
+Apple
+Mango
+Banana
+Cherry
+Kiwi
+Orange
+Guava
+ctrl + d
+
+To Show only top three fruits from the file.
+head -3 devops.txt
+
+To Show only bottom three fruits from the file.
+tail -3 devops.txt
+
+To create another file Colors.txt and to view the content.
+touch Colors.txt
+cat Colors.txt
+
+Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+Cat >> Colors.txt
+Red
+Pink
+White
+Black
+Blue
+Orange
+Purple
+Grey
+
+To find the difference between fruits.txt and Colors.txt file.
+diff fruits.txt Colors.txt
