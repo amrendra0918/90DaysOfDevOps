@@ -1,0 +1,11 @@
+https://amrendra0918.hashnode.dev/getting-started-with-linux
+https://www.linkedin.com/posts/amrendra-pratap-singh-rathore-42b418155_getting-started-with-linux-activity-7052212450733039616-shu8?utm_source=share&utm_medium=member_desktop
+
+
+Task: What is the linux command to:
+1. Check your present working directory.
+Answer: pwd
+2. List all the files or directories including hidden files.
+Answer: ls -a
+3. Create a nested directory A/B/C/D/E
+Answer: mkdir -p A/B/C/D/E
